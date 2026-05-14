@@ -89,5 +89,9 @@ SecurePay helps:
 - Support banks and payment platforms  
 
 ---
+#  Team Motto
+
+“Making digital payments safer with AI intelligence.”
+
 
 
